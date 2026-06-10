@@ -1,4 +1,4 @@
-# 
+# Elite Practical AI Projects for Students presets. Featuring edge-AI and deep-learning-models — optimized for maximum performance.
 
 
 
